@@ -1,0 +1,30 @@
+{
+  "name": "solid-start-title-disappear",
+  "scripts": {
+	"dev": "solid-start dev",
+	"build": "solid-start build",
+	"start": "solid-start start"
+  },
+  "dependencies": {
+	"undici": "^5.28.2"
+  },
+  "devDependencies": {
+	"@types/node": "^20.10.1",
+	"esbuild": "^0.14.54",
+	"postcss": "^8.4.31",
+	"solid-start-node": "^0.3.10",
+	"typescript": "^5.3.2",
+	"vite": "^4.5.0",
+	"@solidjs/meta": "^0.29.1",
+	"@solidjs/router": "^0.8.4",
+	"solid-js": "^1.8.6",
+	"solid-start": "^0.3.10"
+  },
+  "engines": {
+	"node": "~18.18.0",
+	"npm": "use pnpm",
+	"yarn": "use pnpm",
+	"pnpm": "~8.12.1"
+  },
+  "type": "module"
+}
